@@ -2,7 +2,7 @@
   Be sure to import in all of the action types from `../actions`
 */
 
-import { GET_SMURFS, ADD_SMURF, SPINNER_ON, SPINNER_OFF, THROW_ERROR } from "../actions/index";
+import { GET_SMURFS, ADD_SMURF, SPINNER_ON, SPINNER_OFF } from "../actions/index";
 
 /*
  Your initial/default state for this project could *Although does not have to* look a lot like this

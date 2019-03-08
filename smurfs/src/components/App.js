@@ -13,10 +13,6 @@ import SmurfForm from './SmurfForm'
  */
 class App extends Component {
 
-  // componentDidMount() {
-  //   this.props.getSmurfsAsync();
-  // }
-
   render() {
     if (this.props.spinner) {
       <div>Getting Smurfs In Progress...</div>;
